@@ -15,7 +15,5 @@ public class printingTriangleStars {
 
         System.out.println("your triangle square is =" + object.diplaySquare());
 
-
-    }
-
+        }
 }
