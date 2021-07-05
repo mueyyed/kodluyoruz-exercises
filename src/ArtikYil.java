@@ -15,5 +15,5 @@ public class ArtikYil {
             System.out.println("Artik year");
         else
             System.out.println("not Artik year ");
-    }
+   }
 }
