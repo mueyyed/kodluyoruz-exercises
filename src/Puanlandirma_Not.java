@@ -1,5 +1,5 @@
-// not first odev bu linke eklendi --->  [[----https://github.com/mueyyed/kodluyoruz-exercises/blob/master/src/kirtasiye.java-----]]
-      
+//1-  not first odev bu linke eklendi --->  [[----https://github.com/mueyyed/kodluyoruz-exercises/blob/master/src/kirtasiye.java-----]]
+//2-  not second odev bu linke eklendi ---> [[---https://github.com/mueyyed/kodluyoruz-exercises/blob/master/src/SalesTicket.java----]]      
 import java.util.Scanner;
 
 public class Puanlandirma_Not {
