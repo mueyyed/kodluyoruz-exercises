@@ -1,5 +1,5 @@
-//                                            First homeowork
-
+// not first odev bu linke eklendi --->  [[----https://github.com/mueyyed/kodluyoruz-exercises/blob/master/src/kirtasiye.java-----]]
+      
 import java.util.Scanner;
 
 public class Puanlandirma_Not {
