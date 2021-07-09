@@ -1,3 +1,5 @@
+//                                            First homeowork
+
 import java.util.Scanner;
 
 public class Puanlandirma_Not {
